@@ -17,3 +17,10 @@ cd scriptimine
 d) tekita lokaalne repositoorium git süsteemi jaoks antud kaustas.
 git init
 
+
+#
+
+faili iga muudatuse korral
+1) git status = kontrolli, et fail on muudetud.
+2) git add failinimi = lisa muudetud fail jälgimisels
+3) git commit -m "kirjeldus" = 
